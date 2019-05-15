@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="txtout" translatable="false">textout</string>
+    <string name="inp" translatable="false">inp</string>
+    <string name="btn" translatable="false">btn</string>
+    <string name="hello" translatable="false">请输入摄氏度的数值</string>
+    <string name="button" translatable="false">转换为华氏温度</string>
+    <string name="rsl" translatable="false">结果为：</string>
+
+    <string name="btn_dollor_lable" translatable="false">Dollor</string>
+    <string name="btn_euro_lable" translatable="false">Euro</string>
+    <string name="btn_won_lable" translatable="false">Won</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_opencfg_label">Config</string>
+    <string name="save">save</string>
+    <string name="label_open_list">OpenList</string>
+
 </resources>
